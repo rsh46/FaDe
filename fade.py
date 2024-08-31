@@ -1,15 +1,4 @@
-## fade.py - Fake Deface
-# -*- coding: utf-8 -*-
-##
-'''
-FaDe - Fake Deface
-Author : DedSecTL/DTL <dtlily>
-Version : 1.0
-Team : BlackHole Security
-Date : Tue Sep 4 02:06:48 2018
-Telegram : @dtlily
-Line : dtl.lily
-'''
+
 import sys
 import requests
 
